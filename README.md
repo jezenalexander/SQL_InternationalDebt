@@ -33,6 +33,8 @@ The answer is China.
 #7
 We saw that long-term debt is the topmost category when it comes to the average amount of debt. But is it the most common indicator in which the countries owe their debt?
 There are a total of six debt indicators in which all the countries listed in our dataset have taken debt.
+So, this gives us a clue that all these countries are suffering from a common economic issue.
+But of course, that is not the end of the story, but just a part of the story.
 
 #8
 Let's change tracks from debt_indicators now and focus on the amount of debt again. Let's find out the maximum amount of debt that each country has. With this, we will be in a position to identify the other plausible economic issues a country might be going through.
