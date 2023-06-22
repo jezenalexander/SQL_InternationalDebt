@@ -1,0 +1,12 @@
+SQL Query
+
+#1
+SELECT * FROM international_debt
+LIMIT 10;
+
+#2
+SELECT 
+COUNT(DISTINCT country_name) AS total_distinct_countries
+FROM international_debt;
+
+#3
